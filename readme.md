@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="/sticker.PNG">
+    <img width="200" src="https://github.com/RickyJ99/RickyJ99/blob/main/sticker.png">
 </p>
 
 ### Welcome to my GitHub!
