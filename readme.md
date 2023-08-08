@@ -6,7 +6,7 @@
 
 I am Riccardo Dal Cero, an Italian passionate about economics and data analysis.
 
-**TL;DR**: I am at my final year in a Master's degree in Economics, experienced in data analysis, statistical modeling, and machine learning.
+I am at my final year in a Master's degree in Economics, experienced in data analysis, statistical modeling, and machine learning.
 
 ### About Me
 
