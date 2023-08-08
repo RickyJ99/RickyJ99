@@ -12,8 +12,8 @@ I am Riccardo Dal Cero, an Italian passionate about economics and data analysis.
 
 - 🎓 Master's in Economics from University of Catholic Sacred Heart, Milan
 - 🎓 Bachelor's in Economics from University of Verona
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
-- 📫 Contact me at riccardodalcero99@gmail.com
+- 🌐 [LinkedIn](https://www.linkedin.com/in/riccardo-dal-cero/)
+
 
 ### Education
 
