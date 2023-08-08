@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="https://github.com/your-username/your-repo/blob/main/profile.PNG">
+    <img width="200" src="/sticker.PNG">
 </p>
 
 ### Welcome to my GitHub!
