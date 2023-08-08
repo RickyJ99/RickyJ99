@@ -25,12 +25,12 @@ I am at my final year in a Master's degree in Economics, experienced in data ana
 
 ### Professional Experience
 
-- Research Assistant at Catholic University, Milan
+- 🔬Research Assistant at Catholic University, Milan
   - Conducted Big Data Analysis and Time Series Analysis
   - Utilized BERT models for text analysis
   - Wrote a paper on AI text analysis for macroeconomic uncertainty
 
-- Student Worker at University of Verona
+- 👨‍🎓Student Worker at University of Verona
   - Managed library and assisted researchers
 
 - Intern at Studio Dal Cero Sas
@@ -79,9 +79,7 @@ and also **Mathematica** and **Matlab**.
 - Data Analysis: Pandas, NumPy, Scipy
 - Machine Learning: TensorFlow, Scikit-learn
 - Tools: Git, Jupyter, LaTeX
-- Operating Systems: Windows, macOS, Linux
-
-### Interests
+- Operating Systems: Windows, macOS, Linux 
 
 ### Hobbies and interests
 -   🧠 Knowledge addicted: I love learning new things
