@@ -85,9 +85,9 @@ and also **Mathematica** and **Matlab**.
 
 ### Hobbies and interests
 -   🧠 Knowledge addicted: I love learning new things
--   🤖 Robotics
+-   🤖 AI
 -   📷 Photography
 -   🎥 Movies, TV series and film directing
--    Cycling 
--    Swimming
+-   🚵 Cycling 
+-   🏊‍♂️ Swimming
 
