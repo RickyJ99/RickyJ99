@@ -6,7 +6,7 @@
 
 I am **Riccardo Dal Cero**, an Italian passionate about economics, data analysis, and machine learning. 
 
-Currently working on multiple research projects at the **European Central Bank (ECB)**, I specialize in **macroeconomics**, **financial markets**, and **AI-based economic analysis**.
+Currently working as a master trainee on multiple research projects at the **European Central Bank (ECB)**, I specialize in **macroeconomics**, **financial markets**, and **AI-based economic analysis**.
 
 ---
 
