@@ -101,7 +101,7 @@ Currently working as a master trainee on multiple research projects at the **Eur
   
 - **Stata Example:** [Labor Stata Paper - GitHub](https://github.com/RickyJ99/Labour-Stata-Final-Paper/blob/main/main.do)
 
-- **MATLAB Example:** [MATLAB Code - GitHub](https://github.com/RickyJ99/MATLAB-example)
+
 
 ---
 
