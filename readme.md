@@ -95,11 +95,11 @@ Currently working as a master trainee on multiple research projects at the **Eur
 
 ### Code Examples
 
-- **Python Example:** [AI Analysis - GitHub](https://github.com/RickyJ99/RA-project/blob/main/Code_From%20Download%20to%20Dataset/4_AI_analysis.ipynb) and [Agent-Based Reinforcement Learning](https://github.com/RickyJ99/master-thesis-cleansing-effect/blob/main/not_included/agent_reinforcment%20learning.ipynb)
+- **Python Example:** [AI Analysis](https://github.com/RickyJ99/RA-project/blob/main/Code_From%20Download%20to%20Dataset/4_AI_analysis.ipynb) and [Agent-Based Reinforcement Learning](https://github.com/RickyJ99/master-thesis-cleansing-effect/blob/main/not_included/agent_reinforcment%20learning.ipynb)
   
-- **R Example:** [Dataset Analysis - GitHub](https://github.com/RickyJ99/RA-project/blob/main/Exploring_dataset/analyzedataset.r)
+- **R Example:** [Dataset Analysis](https://github.com/RickyJ99/RA-project/blob/main/Exploring_dataset/analyzedataset.r)
   
-- **Stata Example:** [Labor Stata Paper - GitHub](https://github.com/RickyJ99/Labour-Stata-Final-Paper/blob/main/main.do)
+- **Stata Example:** [Labor Stata Paper](https://github.com/RickyJ99/Labour-Stata-Final-Paper/blob/main/main.do)
 
 
 
