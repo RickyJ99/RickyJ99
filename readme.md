@@ -12,8 +12,8 @@ Currently working as a master trainee on multiple research projects at the **Eur
 
 ### About Me
 
-- 🎓 **Master’s in Economics** from University of Catholic Sacred Heart, Milan (GPA: 4.0)
-- 🎓 **Bachelor’s in Economics** from University of Verona (GPA: 3.7)
+- 🎓 **Master’s in Economics** from University of Catholic Sacred Heart, Milan (GPA: 3.8)
+- 🎓 **Bachelor’s in Economics** from University of Verona (GPA: 3.3)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/riccardo-dal-cero/)
 - 👨‍💻 [GitHub Projects](https://github.com/RickyJ99)
 
